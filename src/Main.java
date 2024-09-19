@@ -16,6 +16,7 @@ public class Main {
         for(String boşluksuznot:not.split(" ")){
               System.out.println(boşluksuznot);
         }
+        System.out.println("deneme");
          System.out.println(not.toLowerCase());
          System.out.println(not.toUpperCase());
          System.out.println(not.trim());
